@@ -2,7 +2,7 @@
 Чтобы быть в курсе всех новых идей и предложений, подписывайтесь.
 Для этого нужно нажать [Watch](https://github.com/gimntut/databoom-talking/subscription) в правом верхнем углу.
 
-[Перейти к обсуждению (все темы)](https://github.com/gimntut/databoom-talking/issues)
+[Перейти к обсуждению (все темы)](https://github.com/gimntut/databoom-talking/issues?q=sort%3Acreated-asc)
 
 Некоторые темы:
 * [Термины](https://github.com/gimntut/databoom-talking/issues/1)
